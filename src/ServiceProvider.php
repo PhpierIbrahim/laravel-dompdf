@@ -1,5 +1,5 @@
 <?php
-namespace Barryvdh\DomPDF;
+namespace phpieribrahim\DomPDF;
 
 use Dompdf\Dompdf;
 use Exception;
